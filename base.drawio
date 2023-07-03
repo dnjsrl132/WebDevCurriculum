@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-03T06:13:25.122Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="KGZvIJ2nUaIbRrbz-_pi" version="21.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-03T06:29:44.721Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="7gJ5b8RxeuRy-hrfTXea" version="21.5.2" type="github">
   <diagram name="Page-1" id="b98fa263-6416-c6ec-5b7d-78bf54ef71d0">
     <mxGraphModel dx="2074" dy="1045" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
@@ -61,10 +61,10 @@
         <mxCell id="303ed1de8c2c98b4-22" value="구독한 작가와 &lt;br&gt;유사도가 높은 작품" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=1;fontSize=16;align=center;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="590" y="595" width="125" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="303ed1de8c2c98b4-23" value="작가 구독" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=1;fontSize=16;align=center;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" vertex="1">
+        <mxCell id="303ed1de8c2c98b4-23" value="구독한 작가 확인" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=1;fontSize=16;align=center;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="755" y="595" width="125" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="303ed1de8c2c98b4-24" value="&lt;span&gt;구독 해지&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=1;fontSize=16;align=center;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" vertex="1">
+        <mxCell id="303ed1de8c2c98b4-24" value="&lt;span&gt;본인 구독자 수&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=1;fontSize=16;align=center;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="905" y="595" width="125" height="80" as="geometry" />
         </mxCell>
         <mxCell id="303ed1de8c2c98b4-27" value="구독자만 보기" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=1;fontSize=16;align=center;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" vertex="1">
@@ -82,7 +82,7 @@
         <mxCell id="303ed1de8c2c98b4-33" value="구독자 수 확인" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=1;fontSize=16;align=center;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="755" y="705" width="125" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="303ed1de8c2c98b4-37" value="리뷰(평점 및 댓글)" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=1;fontSize=16;align=center;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" vertex="1">
+        <mxCell id="303ed1de8c2c98b4-37" value="리뷰&lt;br&gt;(좋아요 및 댓글)" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=1;fontSize=16;align=center;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="1057" y="705" width="125" height="80" as="geometry" />
         </mxCell>
         <mxCell id="303ed1de8c2c98b4-39" value="&lt;span&gt;voc&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=1;fontSize=16;align=center;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" vertex="1">
@@ -109,7 +109,7 @@
         <mxCell id="303ed1de8c2c98b4-60" value="&lt;span&gt;-&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=1;fontSize=16;align=center;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="1507" y="925" width="125" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="303ed1de8c2c98b4-73" value="좋아요 버튼" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=1;fontSize=16;align=center;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" vertex="1">
+        <mxCell id="303ed1de8c2c98b4-73" value="ai 영상?" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=1;fontSize=16;align=center;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="1207" y="705" width="125" height="80" as="geometry" />
         </mxCell>
         <mxCell id="303ed1de8c2c98b4-74" value="&lt;span&gt;즐겨찾기 수 확인&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=1;fontSize=16;align=center;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" vertex="1">
@@ -386,9 +386,6 @@
             <mxPoint x="1160" y="880" as="sourcePoint" />
             <mxPoint x="1210" y="830" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="YQc2PdpwBNi4Wdko_Nx6-6" value="ai 영상?" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=1;fontSize=16;align=center;fillColor=#f5f5f5;strokeColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="630" y="160" width="510" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
